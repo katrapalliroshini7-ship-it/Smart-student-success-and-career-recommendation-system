@@ -1,0 +1,27 @@
+Column,Data Type,Missing Values,Unique Values
+Student_ID,int64,0,5000
+Age,int64,0,7
+Gender,str,0,3
+Family_Income_Level,str,0,3
+Location,str,0,2
+Interest_Score,int64,0,10
+Motivation_Level,int64,0,10
+Self_Confidence,int64,0,10
+Stress_Level,int64,0,10
+Personality_Type,str,0,3
+Decision_Making_Ability,int64,0,10
+Creativity_Index,int64,0,10
+Risk_Tolerance,int64,0,10
+GPA,float64,0,401
+Math_Score,int64,0,50
+Programming_Skill,int64,0,60
+Analytical_Skill,int64,0,60
+Communication_Skill,int64,0,60
+Internship_Count,int64,0,5
+Daily_Study_Time,float64,0,894
+Online_Course_Usage,int64,0,100
+Device_Usage_Time,float64,0,997
+Focus_Duration,int64,0,105
+Sleep_Hours,float64,0,501
+Activity_Level,int64,0,10
+Career_Preference,str,0,6
